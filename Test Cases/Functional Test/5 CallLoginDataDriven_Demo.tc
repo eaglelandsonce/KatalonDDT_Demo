@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5 CallLoginDataDriven_Demo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0403638a-7872-4446-ad1f-1ba0ccfc25b9</testCaseGuid>
+   <variable>
+      <defaultValue>'Data Files/credentialslabDDT_Demo'</defaultValue>
+      <description></description>
+      <id>b06d98f7-f9ad-4191-ba50-8f6d8994e17d</id>
+      <masked>false</masked>
+      <name>DataFile</name>
+   </variable>
+   <variable>
+      <defaultValue>'TC123'</defaultValue>
+      <description></description>
+      <id>2f6d61d6-9ed6-4ff6-8a13-b00168afef00</id>
+      <masked>false</masked>
+      <name>TestCaseId</name>
+   </variable>
+</TestCaseEntity>

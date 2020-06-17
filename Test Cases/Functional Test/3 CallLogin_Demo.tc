@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3 CallLogin_Demo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa791d67-23e4-4453-986e-71b1ef9220fd</testCaseGuid>
+   <variable>
+      <defaultValue>'Data Files/credentialslab_Demo'</defaultValue>
+      <description></description>
+      <id>53d897f5-ceb4-4a92-b660-08f9b12e8262</id>
+      <masked>false</masked>
+      <name>DataFile</name>
+   </variable>
+   <variable>
+      <defaultValue>'TC123'</defaultValue>
+      <description></description>
+      <id>9ac9cbac-bd00-4b42-88d5-86d2f7e923c3</id>
+      <masked>false</masked>
+      <name>TestCaseId</name>
+   </variable>
+   <variable>
+      <defaultValue>'0'</defaultValue>
+      <description></description>
+      <id>ec49f28f-a0e9-4f27-bb96-f0ba4ef94c18</id>
+      <masked>false</masked>
+      <name>strIndex</name>
+   </variable>
+</TestCaseEntity>
